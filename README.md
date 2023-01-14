@@ -70,10 +70,10 @@
 - [x] **Java - Persistência**:
    - [x] Entender sobre JDBC e JPA
    - [x] Comunicar-se com um banco de dados relacional
-   - Entender a diferença entre relacionamentos EAGER e LAZY
+   - [x] Entender a diferença entre relacionamentos EAGER e LAZY
    - [x] Planejar queries com join fetch
    - [x] Encapsular o acesso em um DAO
-   - Entender como a memória funciona nessa situação
+   - [x] Entender como a memória funciona nessa situação
 ## Nivel 3
 - [x] **Microsserviços**:
    - [x] Microsserviços são uma abordagem de arquitetura na qual o software consiste de pequenos serviços independentes que se comunicam entre si e são organizados de acordo com seus domínios de negócio.
