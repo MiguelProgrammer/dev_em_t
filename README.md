@@ -169,7 +169,7 @@
 - [X] **Clean Code**:
    - Aplicar técnicas simples que visam facilitar a escrita e leitura de um código
    - Refatorar seu código para que fique mais claro
-- [ ] **Conceitos de Design Orientado a Domínio (Domain-Driven Design - DDD)**:
+- [x] **Conceitos de Design Orientado a Domínio (Domain-Driven Design - DDD)**:
    - O Design Orientado a Domínio (DDD) é uma abordagem ao projeto e desenvolvimento de software que é primeiramente informado pelos requisitos de negócios. Os componentes do programa (objetos, classes, matrizes, etc.) indicam a indústria, setor ou domínio empresarial em que o negócio opera.
    - Modelar domínios de forma efetiva
    - Basear projetos complexos em modelos do domínio
